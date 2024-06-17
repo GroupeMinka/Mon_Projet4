@@ -32,6 +32,12 @@ project :
      physical_name : .\FEN_Menu.wdw
      type : 2
    -
+     name : FEN_Test2
+     identifier : 0x4670929e01c39e8f
+     internal_properties : CAAAAAgAAADzTyt/zLnxKjcVcQkR3hBrjzJ+pin/mjZ2oTakzErAYOQIpfnPauSiVMw2ggL++u7WXg==
+     physical_name : .\FEN_Test2.wdw
+     type : 2
+   -
      name : ETAT_Clients_Prospects
      identifier : 0x46708d9e00ef1779
      internal_properties : CAAAAAgAAAAS6EpebdpSDdT2XWYPGbKylIuTywrIjF9WXTNSuG4u+jLsbTqkXNKDda0X4aFfG413/w==

@@ -36,7 +36,7 @@ window :
   -
     name : BTN_Fermer
     identifier : 0x2670899a039b6a5a
-    internal_properties : CAAAAAgAAACP//lwO/JRyxvwfQZhyW/NQcgU9iqza5D5wFYDSCNahmsfMl//qhsetom+GZwJT16bFeNyhz8NNuqPwup8/ShUpDPgMdtKTjriMbLdTOgxld7dg5QMB+wsfdhxO6as1qnnPF9Ui/qttNoXEx01YNLIg8oiOCDFCm4AbhNPfw/Ppcpreh0/tVzf5/z3gIJ/fuXxv4TPIi/qN5G7i3ZLyGxNsO1aDc0bR8kyyu8h6nc78yYb9a2Y5VbOmR3l8EiuNWpK/RTU1rHsCDKomTtf/Po4SoCpuC5htAaGgHu+GXCHxR9n+24CVonPznzr4WS9WLYcJuEb/6UAtTdMh/DAGmCiLz2vjlq8cSddKPVXUA/RtcjVQbW9pUin5yGBq/X4tAqZo+0C43HVMAubRbUHYifuooBPDJJGcGtFlYw6o9YlmTixMYj2MbkWv0vzoo6rnPiV5Bf/1hLr8rv+tvgBe0UOuS80gZQQsBqw2I2AuCiGaj9GAjJl5aPnwieZ7Cmz4m4RRb2cbtDF6G1554Fq+UNvV74cFYAHpeGQu/rZE9sJ3aSeBaHkyJhlDNZjsIJa8WDaeBb614GnTuguTJwYeXgjvjoBkdJtehOf7kFI2uBn9Ze/JVYq5BAHAQ8FzZBLDf9kzME+Y0lzWzm9aCaE4zrI4aOPSHyMksKO5/5HaHMWLYMNHocBmBNz4dA+1WcH9R1mVsmRQFyqSBGqje6R7KiKW9bpDWRmrbMw4Xq8iRqn5XcX3o/3WQFLPH82B4WqsZKlih+mwXzvzwpajKMkWQrhH85NWpdETiYyI3MsMo57uUCqvRPa+W3owOMNY1vsR6JX5abPGS6K7tZrdRjTaEa9ZeGoEsaZWYtBGWnRhb65wAzf0MuWpln6KQcyh5g1V5xwq2b1uUgfxrR1aavAO6LFN4OJ5XWTddA8YBuegQZj0ONhSo394d3F6HqyY2I0cJ9ncxSJWfiF5J1t+B6Pdm3RFbd7lj0kb4IrmqGaJwVAKOmzl3it8IjaEiztsjJJkGTWSMV/Jscp+gu5FvdKQo3xfpJDethNtEFcg4xc3wdFlIk=
+    internal_properties : CAAAAAgAAABxUO7K3y0GHJy3yX1rNqQKyq1CkICVWdk4vmrzhWg7woBsFlGhV9KvYezRb8/NbMu8+WUOlNwwe9rw0wV2HSUy3T4jkeW2Ux0JZsTVK2V9nkymYAmAVwcDXcl4uKtgzHvoHrzs9HIxy1hW7pGbMDomEmMenezpP7bQEelppE4uBAB5C8h0nR2nkcLm58bsT5u2XQEliGp6Gvg69pWBhDtF4nOuRBh9Mv6wQwUzSgDvtyQph6/EssRiTz6rPoZVEaqelu5XlIf+Ap9PIiIwC/vS9iKDywmYg75EN/I9e8RMK1D0STihTHMS0sxCesF4jt2FhdLYRSDhPdTTnmVxLLLCIWCBoR9kqbdydApQ7ldW8a8S7xvqZMEmzbwKYn/dFCSQMCQzgqIUoWUObyJxntRyjziwZF7DUe6ml5Ox93g2c6/1IydUm23h1e2qOi2EMxb1Pwt9Ax0fg8l6fhjlObMHi5TkPwMGaxQRfQKPK35Td6f1kbSQI86MB1vQcou4R2dydYCBfvKHeUXCG4uniYFTLG7WMfBedXyxlVtMSjx8sX3ZTTVcLsbIHy1ZFi+ImaAm90YZwiSATGeIBokij5/SP6UTo/swpH5Hio4+YcNZTJvneJIEpcSdawD4kwa6sSEOHd/Ab3oqyg+f1/gq3SIldMCEb/oJZbTjpIiycPm3bPLBJcje9SjsS+pobVcPOwpjJZhWKMnn17ntcdL8dI8ELn1ubC59IdoHOBv3VkDpVZKTkH5oNc+/rqunTgXifIaXg9e3TjjVlkQkoHxXzch7QdAlZpiX0fsopIR1Gck31gihQekaUeHHYj7qIIxbsaZUGR+lLA+Gh831BbLpyQUZOOjcs52svZPABO5+e4qHQW0wHSeuq/vGVY+ZL6LTSAgWASP0PNjkZLsqufdgLG3DZYsFwy1clrxVFy/ozzKrfyeocO6DjHg81Lytst1TMXcUG9z3i5O0vkTsNCGeSVzdHrW4jYDYhZIHeEZz3M71HmhvJjvcMGI34bN/KIFCZXSe5ZEpD4jc4jYzPWIxEySEMJF69flxMfzdwy8HRUOKZjQe0g==
     properties :
      x : 304
      y : 17
@@ -55,8 +55,34 @@ window :
          
         type : 14
       -
-        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        code : |1+
+         ferme()
+         
         type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Imprimer
+    identifier : 0x26708d0303edbc44
+    internal_properties : CAAAAAgAAABajA5woHCtmiEa0XfPyDSXU4IDsibdj+U+/jm1niJZRksh+F+NCm0XttrtlOUePWYcq1ujMYNXJW7lYfdJISdaRpKUn/JZ+xqgkneD746IHyzv2pXRQAVtlzp18zxXqwGdC6bNki+Qu2filP+F0KWnjm+uoQsrbZoUcyphuCWWmAqHLD3H+wa3hFeIJSRZMuA5FDTBD6NEunWTWRuX0DaNzpTMfMIOdfyBWx+saYayk9yv2ZimWVZWAkStQMCelxlHE/JeZz67jDN7QpBgSFq3RJI7kyhYiSUmNUPUgxxFLZdYzsjHM+wdR52/meTMtx5seHWm9WTelTP/sgofOnDDWrVldA3U6IenBOTNNn/cI8vdnIzN22cQ1IGHdwrwmtSzYv/jO0Y/kdbs4vr2qcFl1xRETu8reBvxgmY7Ga6JaqsDQdMGOYAZmT/4CK/tBft8fJlEyQ/x//9gd+ezLgazVtjthkaKhNbVUCdn/dF18Y2RhjT0P/ySoS8urLQZaQH98R65CLDUwenLv8TBQdWTWwshbMBexCbZCFH2DvJ9l3GXkRm3+rTOXyB07ApBiQsu+sSOOGfK4xRnsMeiprI2GDKr5MaJt//+qYXjHTWLFxE8SAvRPDri/vQGxKNKEEPQU/lYfGriXXHGotCQZFb+ronrfFRzb2h/AMBdyjx9K+3/DuIk4QuVy24I5uvGQkPwKo2ZJ3nuNYXuTX0Vj1YBqWUYYaE/bwLfKnELaiRsmb603i7oYMHUQCZfNoTJ0i+tAyAf1NBLFNZUNpBwZOhqv8Ctj/nTx5m36TeUqPmiuqhUbVd+t/pw2qVMXkfNe2OH2nEKq7mMKbJkhZN3iu2nCFvI6FDv7uFNwD7yt7E7+SKxqhXDc+ijTieffveHrbogKx3D9bLRuJ1wnzqPgukbzMWMM4FNZPbQRAq/xzn3ULdRSGw/6FX2I3mwZUYbS2aq8Ffgv1u1xwPIBE7IziISpcZIZz2YsmyEw+Fgi/2AnKiDZR4=
+    properties :
+     x : 224
+     y : 83
+     width : 107
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton au style Imprimer
+         
+         
+        type : 14
       -
         type : 161
         enabled : false

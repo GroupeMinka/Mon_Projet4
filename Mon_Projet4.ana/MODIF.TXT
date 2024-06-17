@@ -1,0 +1,30 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Client		NFI		nouveau fichier
+Commande		NFI		nouveau fichier
+Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Client	IDClient	RRN		
+Client	Société	RRN		
+Client	Civilité	RRN		
+Client	Nom	RRN		
+Client	Prénom	RRN		
+Client	Prénom2	RRN		
+Client	Téléphone	RRN		
+Client	Mobile	RRN		
+Client	Fax	RRN		
+Client	Email	RRN		
+Client	Type	RRN		
+Client	IBAN	RRN		
+Client	EnCoursAutorisé	RRN		
+Client	AdresseIP	RRN		
+Client	Photo	RRN		
+Client	MotDePasse	RRN		
+Commande	IDCommande	RRN		
+Commande	NuméroInterneCommande	RRN		
+Commande	TotalHT	RRN		
+Commande	TotalTVA	RRN		
+Commande	TotalTTC	RRN		
+Commande	DateFacturation	RRN		
+Commande	FraisPort	RRN		
+Commande	LCR	RRN		
+Commande	IBAN	RRN		
+Commande	COD	RRN		
